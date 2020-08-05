@@ -1,4 +1,3 @@
-# Didecrypt pada: 05-08
 #jangan di decode
 #yang recode saya doa kan tidak berkah hidupnya
 #belajar hargai karya orang lain
