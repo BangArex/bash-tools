@@ -1,9 +1,10 @@
-# Didecrypt pada: 05-08-2020  17:03:15
-# Python bytecode 2.7 (62211)
-# Didecrypt dengan: python 2.7.18 di platform linux2
-# Decrypt by: AnonyMass AKA Zhu Bai Lee
-# Embedded file name: <Sanz>
+# Didecrypt pada: 05-08
+#jangan di decode
+#yang recode saya doa kan tidak berkah hidupnya
+#belajar hargai karya orang lain
+#sengaja saya tidak compile karena bermasalah jika di compile
 
+#saya harap kalian bisa hargai karya orang lain
 N = '\x1b[0m'
 D = '\x1b[90m'
 W = '\x1b[1;37m'
